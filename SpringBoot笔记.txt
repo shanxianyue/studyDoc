@@ -1,0 +1,3 @@
+SpringBoot无法启动的问题？
+可能的解决方案
+1、 启动类application.Java 文件不能直接放在main/java文件夹下，必须新建一个包把他放进去
